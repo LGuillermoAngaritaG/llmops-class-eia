@@ -1,0 +1,8 @@
+.env
+mlruns/
+mlflow.db
+prompt_template.txt
+metrics_distribution.png
+length_comparison.png
+rouge_scores.png
+*example*/
