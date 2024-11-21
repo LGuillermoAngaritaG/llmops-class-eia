@@ -1,0 +1,36 @@
+# Core Dependencies
+python-dotenv>=1.0.0
+langchain>=0.2.16
+langchain-experimental>=0.3.0
+langchain-groq>=0.0.5
+groq>=0.4.2
+
+# LLM Operations
+mlflow>=2.10.0
+crewai[tools]>=0.80.0
+
+# Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=4.0.0
+
+# Visualization
+matplotlib>=3.9.2
+plotly>=5.18.0
+seaborn>=0.12.0
+
+# Machine Learning & NLP
+transformers>=4.30.0
+rouge-score>=0.1.2
+nltk>=3.8.1
+
+# Development & Testing
+jupyter>=1.0.0
+notebook>=7.0.0
+pytest>=8.0.0
+
+# Utilities
+requests>=2.31.0
+pydantic>=2.7.4
+PyYAML>=5.3
+click>=8.1.7
