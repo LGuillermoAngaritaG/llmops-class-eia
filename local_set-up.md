@@ -29,3 +29,9 @@ I suggest to install the following extensions in VsCode:
 - Continue: https://www.continue.dev/
 
 If you can pay, use github copilot.
+
+Recommended Free APIs for LLMs:
+
+- Groq: https://console.groq.com/
+- Cerebras: https://cerebras.ai/
+- GLHF: https://glhf.chat/
